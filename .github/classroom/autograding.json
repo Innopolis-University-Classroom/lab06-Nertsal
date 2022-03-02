@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Currency test",
+      "setup": "",
+      "run": "gradle test --tests TestCurrencyConverter",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 100
+    }
+  ]
+}
